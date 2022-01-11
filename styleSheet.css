@@ -1,0 +1,7 @@
+.para > p {
+  color: blue;
+}
+
+.paraChild > p {
+  color: green;
+}
