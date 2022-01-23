@@ -46,6 +46,7 @@ h3 {
   grid-row: 1;
   width: 100%;
   grid-column-end: span 4;
+  overflow: hidden;
 }
 
 p {
