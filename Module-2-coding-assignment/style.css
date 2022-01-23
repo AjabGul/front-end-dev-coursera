@@ -77,13 +77,16 @@ p {
   .col1 {
     grid-column-end: span 12;
     grid-row: 1;
+    overflow: hidden;
   }
   .col2 {
     grid-column-end: span 12;
     grid-row: 2;
+    overflow: hidden;
   }
   .col3 {
     grid-column-end: span 12;
     grid-row: 3;
+    overflow: hidden;
   }
 }
