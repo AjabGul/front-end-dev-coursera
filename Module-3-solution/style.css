@@ -9,7 +9,7 @@ h3 {
 
 .menu-detail {
   border: 2px solid black;
-  margin: 40px;
+  margin: 20px;
   padding: 30px;
   overflow: auto;
   background-color: gray;
@@ -19,13 +19,14 @@ h3 {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-gap: 10px;
-  margin-right: 70px;
+  margin-right: 40px;
 }
 
 .cell {
   grid-row: 1;
   width: 100%;
   grid-column-end: span 4;
+  margin-top: 10;
 }
 
 /********** Large devices only **********/
