@@ -4,6 +4,6 @@ for (var i = 0; i < names.length; i++){
     if (names[i].charAt(0) === "J"){
         console.log(" GoodBye " + names[i])
     } else {
-        console.log(" Wellcome " + names[i])
+        console.log(" Hello " + names[i])
     }
 }
