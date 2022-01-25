@@ -12,13 +12,3 @@ header {
   font-size: 25px;
   font-weight: bold;
 }
-
-p {
-  background-color: white;
-  color: black;
-  width: 80%;
-  border: 2px solid black;
-  padding: 40px;
-  margin-left: 50px;
-  margin-top: 40px;
-}
